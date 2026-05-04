@@ -80,4 +80,4 @@ deactivate
 ```
 
 ### Testing
-Run all the the tests with `pytest` or specific tests with prefixing files `pytest tests/blueprints/*`
+Run all the tests with `pytest` or specific tests with prefixing files `pytest tests/blueprints/*`
